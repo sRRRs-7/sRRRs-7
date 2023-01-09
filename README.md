@@ -3,7 +3,7 @@
 <h2 align='center'> Commend-Style
 <h4 align='center'> ~新たなコマンドとの出会い~
 
-機能
+<p>機能</p>
 
 <p>
 ・コマンド検索
@@ -17,13 +17,13 @@
 ・ソート機能
 </p>
 
-<p align='center'> -Structure-
+<h2 align='center'> -Structure-
 <code><img height='500' width='2000' src='./specification.png'></code>
 
-<p align='center'> -Database-
+<h2 align='center'> -Database-
 <code><img height='500' width='2000' src='./DB.png'></code>
 
-<p align='center'> -Technology-
+<h2 align='center'> -Technology-
 
 <h3>Frontend</h3>
 
