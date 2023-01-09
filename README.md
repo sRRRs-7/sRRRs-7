@@ -1,7 +1,7 @@
---個人開発--
+<p align='center'>--個人開発--
 
-<p align='center'> Commend-Style
-<p align='center'> ~新たなコマンドとの出会い~
+<h2 align='center'> Commend-Style
+<h4 align='center'> ~新たなコマンドとの出会い~
 
 機能
 
@@ -25,7 +25,7 @@
 
 <p align='center'> -Technology-
 
-Frontend
+<h3>Frontend</h3>
 
 <p>
 <img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -43,21 +43,21 @@ Frontend
 <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 </p>
 
-Backend
+<h3>Backend</h3>
 
 <p>
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)" />
 <img alt="Gqlgen" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
-Database
+<h3>Database</h3>
 
 <p>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-Infrastructure
+<h3>Infrastructure</h3>
 
 <p>
 <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
