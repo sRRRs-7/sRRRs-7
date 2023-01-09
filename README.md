@@ -3,7 +3,9 @@
 <p align='center'> Commend-Style
 <p align='center'> ~新たなコマンドとの出会い~
 
--機能-
+機能
+
+<p>
 ・コマンド検索
 ・コマンド投稿
 ・コマンド編集
@@ -13,15 +15,18 @@
 ・タグ機能
 ・投稿管理
 ・ソート機能
+</p>
 
-<p align='center'> Structure
+<p align='center'> -Structure-
 <code><img height='500' width='2000' src='./specification.png'></code>
-<p align='center'> Database
+
+<p align='center'> -Database-
 <code><img height='500' width='2000' src='./DB.png'></code>
 
-<p align='center'> Technology
+<p align='center'> -Technology-
 
-<p align='center'> Frontend
+Frontend
+
 <p>
 <img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -38,19 +43,22 @@
 <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 </p>
 
-<p align='center'> Backend
+Backend
+
 <p>
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)" />
 <img alt="Gqlgen" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
-<p align='center'> Database
+Database
+
 <p>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-<p align='center'> Infrastructure
+Infrastructure
+
 <p>
 <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
