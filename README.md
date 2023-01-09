@@ -1,9 +1,9 @@
 <p align='center'>--個人開発--
 
 <h2 align='center'> Commend-Style
-<h4 align='center'> ~新たなコマンドとの出会い~
+<h2 align='center'> ~新たなコマンドとの出会い~
 
-<p>機能</p>
+<h3>機能</h3>
 
 <p>
 ・コマンド検索
